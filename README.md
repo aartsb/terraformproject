@@ -4,7 +4,7 @@ Cloud/Terraform Project: VM Deployment with Policy as Code
 This repository demonstrates the use of Terraform to:  
 1. Deploy a Virtual Machine (VM) in Azure using a modular compute configuration.
 2. 2.Implement policy-as-code with Azure Policy and Sentinel for governance and compliance.
-3. Execute custom workloads or scripts on the deployed VM.
+3. Execute scripts on the deployed VM. **
 4. Outputs include deployed VM details and applied policy assignment IDs.
 
 Future Customizations & Improvements
@@ -17,3 +17,4 @@ Future Customizations & Improvements
 6. CI/CD Integration -> Add pipelines for automated testing and deployment using Azure DevOps.
 
 
+--> ** to add a .sh for execute on VM
