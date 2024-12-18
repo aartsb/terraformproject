@@ -9,11 +9,11 @@ This repository demonstrates the use of Terraform to:
 
 Future Customizations & Improvements
 
-Support for Multiple VM Deployments -> Enhance the compute module to support deployment of multiple VMs with different configurations.
-Custom Policy Definitions -> Extend the policy module to support custom policy definitions and initiatives.
-Workload Automation -> Add Terraform provisioners or integrations with tools like 'Ansible' to run automated scripts/workloads on the VM post-deployment.
-Logging and Monitoring -> Integrate Azure Monitor and Log Analytics for operational visibility and governance insights.
-Security Addition -> Include modules for Azure Key Vault, managed identities, and RBAC.
-CI/CD Integration -> Add pipelines for automated testing and deployment using Azure DevOps.
+1. Support for Multiple VM Deployments -> Enhance the compute module to support deployment of multiple VMs with different configurations.
+2. Custom Policy Definitions -> Extend the policy module to support custom policy definitions and initiatives.
+3. Workload Automation -> Add Terraform provisioners or integrations with tools like 'Ansible' to run automated scripts/workloads on the VM post-deployment.
+4. Logging and Monitoring -> Integrate Azure Monitor and Log Analytics for operational visibility and governance insights.
+5. Security Addition -> Include modules for Azure Key Vault, managed identities, and RBAC.
+6. CI/CD Integration -> Add pipelines for automated testing and deployment using Azure DevOps.
 
 
