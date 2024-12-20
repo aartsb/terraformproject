@@ -18,3 +18,10 @@ Future Customizations & Improvements
 
 
 --> ** to add a .sh for execute on VM
+--> testing environ, in a bash file 
+
+az login
+terraform-project
+terraform init
+terraform plan
+terraform apply
