@@ -15,9 +15,9 @@ variable "vm_size" {
 }
 
 variable "admin_username" {
-  default = "adminuser"
+  default = "aarti"
 }
 
 variable "admin_password" {
-  default = "ComplexPassword123!"
+  default = "FSDADU12!2d"
 }
